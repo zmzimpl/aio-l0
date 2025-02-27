@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "license": "MIT",
   "dependencies": {
-    "@ethersproject/providers": "^5.7.2",
+    "@ethersproject/providers": "^5.8.0",
     "aptos": "^1.10.0",
     "bignumber.js": "^9.1.1",
     "chalk": "^5.2.0",
